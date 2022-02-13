@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibraryTest/MaxLibraryTest.csproj": {}
+  },
+  "projects": {
+    "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/MaxLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/MaxLibrary.csproj",
+        "projectName": "MaxLibrary",
+        "projectPath": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/MaxLibrary.csproj",
+        "packagesPath": "/Users/kiri/.nuget/packages/",
+        "outputPath": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kiri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibraryTest/MaxLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibraryTest/MaxLibraryTest.csproj",
+        "projectName": "MaxLibraryTest",
+        "projectPath": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibraryTest/MaxLibraryTest.csproj",
+        "packagesPath": "/Users/kiri/.nuget/packages/",
+        "outputPath": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibraryTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kiri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/MaxLibrary.csproj": {
+                "projectPath": "/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/MaxLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

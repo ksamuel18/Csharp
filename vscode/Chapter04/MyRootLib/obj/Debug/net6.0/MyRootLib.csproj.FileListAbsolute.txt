@@ -1,0 +1,12 @@
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/bin/Debug/net6.0/MyRootLib.deps.json
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/bin/Debug/net6.0/MyRootLib.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/bin/Debug/net6.0/ref/MyRootLib.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/bin/Debug/net6.0/MyRootLib.pdb
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.csproj.AssemblyReference.cache
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.AssemblyInfoInputs.cache
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.AssemblyInfo.cs
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.csproj.CoreCompileInputs.cache
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/ref/MyRootLib.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MyRootLib/obj/Debug/net6.0/MyRootLib.pdb

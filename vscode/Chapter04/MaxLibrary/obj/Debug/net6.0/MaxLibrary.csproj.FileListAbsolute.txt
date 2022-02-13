@@ -1,0 +1,12 @@
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.csproj.AssemblyReference.cache
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.AssemblyInfoInputs.cache
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.AssemblyInfo.cs
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.csproj.CoreCompileInputs.cache
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/bin/Debug/net6.0/MaxLibrary.deps.json
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/bin/Debug/net6.0/MaxLibrary.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/bin/Debug/net6.0/ref/MaxLibrary.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/bin/Debug/net6.0/MaxLibrary.pdb
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/ref/MaxLibrary.dll
+/Users/kiri/Desktop/Repos/cs10dotnet6/vscode/Chapter04/MaxLibrary/obj/Debug/net6.0/MaxLibrary.pdb
